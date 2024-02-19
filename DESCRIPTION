@@ -1,0 +1,13 @@
+Package: FICE
+Type: Package
+Title: A unified fiducial estimator for interval censored data
+Version: 1.0
+Date: 2022-03-08
+Author: Zheng Chaoju
+Maintainer: Zheng Chaoju <zhengchaoju123@outlook.com>
+Description: More about what it does (maybe more than one line)
+License: GPL >= 2
+Imports: Rcpp (>= 1.0.8), RcppEigen
+LinkingTo: Rcpp, RcppEigen
+RoxygenNote: 7.2.3
+Encoding: UTF-8
